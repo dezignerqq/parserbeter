@@ -1,10 +1,10 @@
 {
-    "enabled": false,
+    "enabled": true,
     "parsers": {
-        "parsertournaments": false,
-        "checker": false,
-        "liquipedia": false,
+        "parsertournaments": true,
+        "checker": true,
+        "liquipedia": true,
         "fandom": true,
-        "faceit": false
+        "faceit": true
     }
 }
