@@ -5,6 +5,6 @@
         "checker": true,
         "liquipedia": true,
         "fandom": true,
-        "faceit": true
+        "faceit": false
     }
 }
