@@ -1,9 +1,9 @@
 {
     "enabled": false,
     "parsers": {
-        "parsertournaments": true,
-        "checker": true,
-        "liquipedia": true,
+        "parsertournaments": false,
+        "checker": false,
+        "liquipedia": false,
         "fandom": true,
         "faceit": false
     }
