@@ -2,8 +2,8 @@
     "enabled": true,
     "parsers": {
         "parsertournaments": true,
-        "checker": true,
-        "liquipedia": true,
+        "checker": false,
+        "liquipedia": false,
         "fandom": true,
         "faceit": true
     }
