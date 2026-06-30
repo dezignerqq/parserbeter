@@ -1,7 +1,7 @@
 {
     "enabled": true,
     "parsers": {
-        "parsertournaments": true,
+        "parsertournaments": false,
         "checker": true,
         "liquipedia": true,
         "fandom": true,
