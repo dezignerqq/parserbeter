@@ -2,9 +2,9 @@
     "enabled": true,
     "parsers": {
         "parsertournaments": true,
-        "checker": false,
-        "liquipedia": false,
-        "fandom": false,
+        "checker": true,
+        "liquipedia": true,
+        "fandom": true,
         "faceit": true
     }
 }
