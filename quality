@@ -3,7 +3,7 @@
     "parsers": {
         "parsertournaments": false,
         "checker": false,
-        "liquipedia": true,
+        "liquipedia": false,
         "fandom": true,
         "faceit": true
     }
