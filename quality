@@ -4,7 +4,7 @@
         "parsertournaments": false,
         "checker": false,
         "liquipedia": false,
-        "fandom": true,
+        "fandom": false,
         "faceit": true
     }
 }
